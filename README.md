@@ -15,6 +15,7 @@ O grupo leva o nome de Augusta Ada Byron King, Condessa de Lovelace, atualmente 
 - [Amanda Savazzi](https://www.github.com)
 - [Brunna Victória](https://www.github.com)
 - [Caroline Teixeira](https://www.github.com)
+- [Jaqueline Santos](https://www.github.com/JaquelineAPSantos)
 - [Juliana Thais](https://www.github.com)
 - [Kássia Oliveira](https://www.github.com)
 - [Lorrane de Alkimim](https://www.github.com)

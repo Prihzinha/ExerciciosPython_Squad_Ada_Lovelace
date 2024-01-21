@@ -6,21 +6,23 @@
 
 ## Squad Ada Lovelace
 
-O grupo leva o nome da matemática Ada Lovelace, que escreveu o primeiro algoritmo para ser processado por uma máquina. Conheça mais a história desta mulher incrível.
-
+O grupo leva o nome de Augusta Ada Byron King, Condessa de Lovelace, atualmente conhecida como Ada Lovelace, foi uma matemática e escritora inglesa. Hoje é reconhecida principalmente por ter escrito o primeiro algoritmo para ser processado por uma máquina, a máquina analítica de Charles Babbage.
 
 
 ## Autores
 
-- [Amanda Savazzi](https://www.github.com/octokatherine)
-- [Brunna Victória](https://www.github.com/octokatherine)
-- [Caroline Teixeira](https://www.github.com/octokatherine)
-- [Juliana Thais](https://www.github.com/octokatherine)
-- [Kássia Oliveira](https://www.github.com/octokatherine)
-- [Luana Gomes](https://www.github.com/octokatherine)
-- [Lorrane de Alkimim](https://www.github.com/octokatherine)
+- [Amanda Savazzi](https://www.github.com/)
+- [Brunna Victória](https://www.github.com/)
+- [Caroline Teixeira](https://www.github.com/braincoreBR)
+- [Juliana Thais](https://www.github.com/)
+- [Jaqueline Santos](https://www.github.com/JaquelineAPSantos)
+- [Kássia Oliveira](https://www.github.com/kmro)
+- [Luana Gomes](https://www.github.com/)
+- [Lorrane de Alkimim](https://www.github.com/)
 - [Priscila Rodrigues](https://www.github.com/Prihzinha)
-- [Shomara Flores](https://www.github.com/octokatherine)
+- [Shomara Flores](https://www.github.com/)
+
+
 ## Aprendizados
 
 A equipe preferiu realizar cada uma sua lista de exercícios e compartilhar via discord como havia cria a lógica dos mesmos.

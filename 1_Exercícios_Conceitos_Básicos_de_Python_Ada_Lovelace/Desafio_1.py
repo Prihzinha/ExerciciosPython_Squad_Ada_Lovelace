@@ -9,10 +9,10 @@ print('Olá, Bem Vindo(a) aos desafios da Squad Ada Lovelace \U0001F603')
 print('Eu sou Ada Lovelace e irei lhe acompanhar nesses desafios \U0001F609')
 
 #1
-print('Primeiro comoeçamos com as principais operações matematicas')
+print('Primeiro começamos com as principais operações matematicas')
 
-numero1 = float(input('Digite o primeiro numero: '))
-numero2 = float(input('Digite o segundo numero: '))
+numero1 = float(input('Digite o primeiro número: '))
+numero2 = float(input('Digite o segundo número: '))
 soma = numero1 + numero2
 subtracao = numero1 - numero2
 multiplicacao = numero1 * numero2
@@ -75,7 +75,7 @@ print('Vamos mudar desse assunto triste de salario né!')
 
 print('Olha que legal, você está querendo viajar?!')
 
-distancia = float(input('Me diga qual a distancia em quilometros da sua viagem: '))
+distancia = float(input('Me diga qual a distância em quilometros da sua viagem: '))
 
 velocidade_aviao = 600
 velocidade_carro = 100
@@ -86,16 +86,16 @@ tempo_aviao = distancia / velocidade_aviao
 tempo_carro = distancia / velocidade_carro
 tempo_onibus = distancia / velocidade_onibus
 
-print(f"Seu tempo de viagem para a distacia de {distancia} km:")
+print(f"Seu tempo de viagem para a distância de {distancia} km:")
 print(f"De Avião: {tempo_aviao:.2f} horas")
 print(f"De Carro: {tempo_carro:.2f} horas")
 print(f"De Ônibus: {tempo_onibus:.2f} horas")
 
 #7
-print('Vamos falar da sua saude agora, assunto muito importante!')
+print('Vamos falar da sua saúde agora, assunto muito importante!')
 
 altura = float(input('Por favor, me diga sua Altura em metros: '))
-peso = float(input('e agora, me diga seu Peso em kg: '))
+peso = float(input('E agora, me diga seu Peso em kg: '))
 
 # calculo de IMC
 imc = peso/(altura*altura)
@@ -108,11 +108,11 @@ classificacao = "Você está obeso." * (imc >= 30) + \
 print(classificacao)
 
 #8
-print('Já vimos muitas coisas até agora né! E eu estou adorando conhecer você um pouco mais.')
-print('Vamos calcular seu salario total?')
+print('Já vimos muitas coisas até agora, né! E eu estou adorando conhecer você um pouco mais.')
+print('Vamos calcular seu salário total?')
 
 ganho_hora = float(input("Me diga quanto você ganha por hora trabalhada? "))
-horas_trabalhadas = float(input("E tambem quantas horas por mês você trabalha? "))
+horas_trabalhadas = float(input("E também quantas horas por mês você trabalha? "))
 
 salario_total = ganho_hora * horas_trabalhadas
 
@@ -120,7 +120,7 @@ print(f"Cheguei a conclusão que seu  salário total neste mês é de: R${salari
 
 #9
 print('Estamos chegando ao final do nosso desafio, até agora você gostou?')
-print('Voltando a falar de saude.')
+print('Voltando a falar sobre saúde.')
 
 horas_exercicio = float(input("Me diga quantas horas de exercício físico você faz por semana (seja sincero rsrs): "))
 minutos_exercicio = horas_exercicio * 60
@@ -134,7 +134,7 @@ print(f"Seu total de calorias queimadas em um mês é de: {calorias_por_mes:.2f}
 
 #10
 print('Estamos conversando faz tempo, e eu estou muito feliz em ti conhecer melhor!')
-print('Agora para fechar com chave de ouro, posso fazer algumas ultimas perguntas?')
+print('Agora para fechar com chave de ouro, posso fazer algumas últimas perguntas?')
 
 nome = str(input('Qual seu nome completo? '))
 cidade = str(input('Em qual cidade você mora? '))

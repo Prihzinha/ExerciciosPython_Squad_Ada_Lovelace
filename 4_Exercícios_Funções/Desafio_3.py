@@ -10,12 +10,14 @@ def ConvertFahrenheit (vcelsius):
     vFahrenheit = 32 - vcelsius
     return vFahrenheit
 
+def menu(Escolha):
+    if tp == "F":
+        return (f'A temperatura {grau}°F é {ConvertCelsius(grau)}°C')
+    elif tp == "C":
+        return (f'A temperatura {grau}°C é {ConvertFahrenheit(grau)}°F')
+    else:
+        return ("Escolha C ou F")    
 tp = input("Escolha 'C' Celsius > Fahrenheit ou 'F' Fahrenheit > Celsius: ").upper()
 grau = float(input("Informe a temperatura de Conversão: "))
              
-if tp == "F":
-    print(f'A temperatura {grau}°F é {ConvertCelsius(grau)}°C')
-elif tp == "C":
-    print(f'A temperatura {grau}°C é {ConvertFahrenheit(grau)}°F')
-else:
-    print("Escolha C ou F")
+print(menu(tp))

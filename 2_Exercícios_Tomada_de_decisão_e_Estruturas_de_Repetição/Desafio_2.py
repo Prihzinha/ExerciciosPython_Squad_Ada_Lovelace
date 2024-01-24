@@ -1,7 +1,6 @@
-turno = input(
-    "Em qual turno você estuda? Digite M para Matutino, "
-    "V para Vespertino ou N para Noturno: ")
+print('Em qual turno você estuda?')
 
+turno = input('Digite M para Matutino, V para Vespertino ou N para Noturno: ')
 turno = turno.upper()
 
 if turno == "M":

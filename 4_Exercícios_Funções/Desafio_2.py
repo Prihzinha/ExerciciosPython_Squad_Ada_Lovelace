@@ -4,5 +4,5 @@
 def reverse(a):
     numreverso = a[::-1]
     return numreverso
-numero = input("Digite um numero? ")
-print(f'O numero intertido fica assim: {reverse(numero)}')
+numero = input("Por gentileza, Digite um número? ")
+print(f'O número intertido fica assim: {reverse(numero)}')

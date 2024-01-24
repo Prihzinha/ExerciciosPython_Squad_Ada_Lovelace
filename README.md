@@ -9,12 +9,12 @@
 O grupo leva o nome de Augusta Ada Byron King, Condessa de Lovelace, atualmente conhecida como Ada Lovelace, foi uma matemática e escritora inglesa. Hoje é reconhecida principalmente por ter escrito o primeiro algoritmo para ser processado por uma máquina, a máquina analítica de Charles Babbage.
 
 
-## Autores
+## Autoras
 
 - [Amanda Savazzi](https://www.github.com/amandaspavan)
 - [Brunna Victória](https://www.github.com/)
 - [Caroline Teixeira](https://www.github.com/braincoreBR)
-- [Juliana Thais](https://www.github.com/)
+- [Juliana Thais](https://www.github.com/JulianaThais)
 - [Jaqueline Santos](https://www.github.com/JaquelineAPSantos)
 - [Kássia Oliveira](https://www.github.com/kmro)
 - [Luana Gomes](https://www.github.com/luanafernanda)

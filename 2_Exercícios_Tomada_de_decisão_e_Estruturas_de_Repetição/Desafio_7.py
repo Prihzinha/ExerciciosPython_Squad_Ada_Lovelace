@@ -1,3 +1,5 @@
+print('Olá, me diga sua idade para que eu classifique sua faixa etária!')
+
 idade = int(input("Digite a sua idade: "))
 
 if idade < 0:
@@ -9,4 +11,4 @@ elif 13 <= idade <= 17:
 elif 18 <= idade <= 59:
     print(f"Você tem {idade} anos, então você é um ADULTO!")
 else:
-    print(f"Você tem {idade} anos, então vocêé um IDOSO!")
+    print(f"Você tem {idade} anos, então você é um IDOSO!")

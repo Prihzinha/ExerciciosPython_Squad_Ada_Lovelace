@@ -1,3 +1,5 @@
+print('Vamos avaliar notas e realizar comparações com possíveis valores inválidos:')
+
 while True:
     nota = int(input("Digite uma nota entre 0 e 10: "))
 

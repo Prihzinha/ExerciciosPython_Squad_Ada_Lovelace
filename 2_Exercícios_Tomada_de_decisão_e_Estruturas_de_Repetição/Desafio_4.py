@@ -1,3 +1,4 @@
+print('Vamos avaliar notas de alunos e classifica-los!')
 while True:
     nota = int(input("Digite a nota do aluno (de 0 a 10): "))
 

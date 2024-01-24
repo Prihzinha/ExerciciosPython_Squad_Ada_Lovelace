@@ -3,11 +3,11 @@
 #cada opção, crie uma função.
 
 def ConvertCelsius (vFahrenheit):
-    vcelsius = vFahrenheit-32
+    vcelsius = (vFahrenheit-32) * 5/9
     return vcelsius
 
 def ConvertFahrenheit (vcelsius):
-    vFahrenheit = 32 - vcelsius
+    vFahrenheit = 32 - (vcelsius * 9/5)
     return vFahrenheit
 
 def menu(Escolha):

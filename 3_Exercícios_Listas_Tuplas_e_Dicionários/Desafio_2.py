@@ -4,23 +4,23 @@
 #de alunos com média maior ou igual a 7.0.
 
 
-notasalunos = []
-qtdaluno = 0
-x = 0
-while x < 5:
-    linha  = input (f"5 Notas do Aluno {x+1} Separado por espaço: ")
-    for i in linha.split():
-        notasalunos.append(int(i))
+alunos = []
 
-    soma = sum(notasalunos) 
-    mediaaluno = soma / len(notasalunos)
-    if mediaaluno >= 7: 
-        qtdaluno +=1
-    x+=1
+for i in range(5):
+    nome_aluno = input(f"Informe o nome do Aluno {i + 1}: ")
+    nota1 = float(input("Digite a primeira nota: "))
+    nota2 = float(input("Digite a segunda nota: "))
+    nota3 = float(input("Digite a terceira nota: "))
+    nota4 = float(input("Digite a quarta nota: "))
 
-if qtdaluno == 0:
-    print("Nenhum Aluno passou de ano")
-elif qtdaluno == 1:
-    print("Apenas 1 aluno passou de ano")
-elif qtdaluno > 1:
-    print(f"{qtdaluno} alunos passaram de ano")
+    media_aluno = (nota1 + nota2 + nota3 + nota4) / 4
+
+    alunos.append({"nome": nome_aluno, "media": media_aluno})
+
+alunos_aprovados = sum(1 for aluno in alunos if aluno["media"] >= 7.0)
+
+print("\nMédia dos Alunos:")
+for aluno in alunos:
+    print(f"{aluno['nome']}: Média {aluno['media']:.2f}")
+
+print(f"\nNúmero de alunos com média maior ou igual a 7.0: {alunos_aprovados}")

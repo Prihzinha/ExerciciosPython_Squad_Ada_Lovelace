@@ -39,6 +39,5 @@ def francoSUI(valor):
     return float("{:.2f}".format(vconvert))
 
 val = float(input("Valores em reais para conversão: R$"))
-print (f"Valores Convertidos:")
 
-print (f"Valores Convertidos:\n Dolar Americano: ${dolarAME(val)}\nPeso Argentino: ${PesoARG(val)}\nDolar Australiano: ${dolarAUS(val)}\nDolar Canadense: $ {dolarCAN(val)}\nFranco Suiço: ${francoSUI(val)}\nEuro: ${euro(val)}\nLibra Esterlina {libra(val)}")
+print (f"Valores Convertidos:\nDolar Americano: ${dolarAME(val)}\nPeso Argentino: ${PesoARG(val)}\nDolar Australiano: ${dolarAUS(val)}\nDolar Canadense: $ {dolarCAN(val)}\nFranco Suiço: ${francoSUI(val)}\nEuro: ${euro(val)}\nLibra Esterlina {libra(val)}")

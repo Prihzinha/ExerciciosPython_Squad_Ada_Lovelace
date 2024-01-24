@@ -1,3 +1,5 @@
+prinf('Digite uma sequência de números, após isso será separados entre pares e impares!')
+
 pares = 0
 impares = 0
 

@@ -11,7 +11,7 @@ O grupo leva o nome de Augusta Ada Byron King, Condessa de Lovelace, atualmente 
 
 ## Autores
 
-- [Amanda Savazzi](https://www.github.com/)
+- [Amanda Savazzi](https://www.github.com/amandaspavan)
 - [Brunna Victória](https://www.github.com/)
 - [Caroline Teixeira](https://www.github.com/braincoreBR)
 - [Juliana Thais](https://www.github.com/)

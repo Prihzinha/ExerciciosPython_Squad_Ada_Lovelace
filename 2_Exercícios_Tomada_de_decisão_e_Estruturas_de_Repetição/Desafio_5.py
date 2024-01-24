@@ -1,3 +1,5 @@
+print('Vamos avaliar triângulos? Você me informa o comprimento dos 3 lados e eu lhe digo qual triângulo é!')
+
 lado1 = int(input("Digite o comprimento do primeiro lado: "))
 lado2 = int(input("Digite o comprimento do segundo lado: "))
 lado3 = int(input("Digite o comprimento do terceiro lado: "))

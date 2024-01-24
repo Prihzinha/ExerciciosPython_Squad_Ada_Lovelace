@@ -1,21 +1,24 @@
+print('Somos detetives e temos umas perguntas para você, responda com sinceridade!')
+
 Lista_resp = []
 
 resp1 = input("Telefonou para a vítima? (S/N): ")
 Lista_resp.append (resp1)
 resp1 = input("Esteve no local do crime? (S/N): ")
 Lista_resp.append (resp1)
-resp1 = input("Mora perto da vítima? (S/N): ")
+resp1 = input("Você mora perto da vítima? (S/N): ")
 Lista_resp.append (resp1)
-resp1 = input("Devia para a vítima? (S/N): ")
+resp1 = input("Você devia para a vítima? (S/N): ")
 Lista_resp.append (resp1)
-resp1 = input("Já trabalhou com a vítima? (S/N): ")
+resp1 = input("Você já trabalhou com a vítima? (S/N): ")
 Lista_resp.append (resp1)
 
 qtd_sim = 0
 for i in range(len(Lista_resp)):
     if Lista_resp[i].upper() == "S":
         qtd_sim += 1
-
+        
+# Classifica a pessoa com base no número de respostas positivas
 if qtd_sim == 5:
     print("Assasino!")
 elif qtd_sim > 3:
@@ -23,6 +26,6 @@ elif qtd_sim > 3:
 elif qtd_sim > 1:
     print("Suspeita")
 else:
-    print ("inocente")
+    print ("Inocente")
 
 #print(Lista_resp)

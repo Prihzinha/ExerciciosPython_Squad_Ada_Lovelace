@@ -25,9 +25,9 @@ O grupo leva o nome de Augusta Ada Byron King, Condessa de Lovelace, atualmente 
 
 ## Aprendizados
 
-A equipe preferiu realizar cada uma sua lista de exercícios e compartilhar via discord como havia cria a lógica dos mesmos.
+A equipe preferiu realizar cada uma sua lista de exercícios e compartilhar via discord como havia criado a lógica dos mesmos.
 
-Com isso escolhíamos qual código seria o oficial há entrar no projeto final.
+Com isso, escolhíamos qual código seria o oficial para entrar no projeto final.
 
 Também optamos pelos projetos serem criados de formas diferentes para demostrar a pluralidade da equipe e suas visões diferentes.
 
